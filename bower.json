@@ -1,0 +1,26 @@
+{
+  "name": "jd",
+  "homepage": "https://github.com/wxwxwxwx/class",
+  "authors": [
+    "王昕 <97677613@qq.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "mobile"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "touch.code.baidu.com": "Clouda-team/touch.code.baidu.com",
+    "Swiper": "swiper#^3.3.1"
+  }
+}
